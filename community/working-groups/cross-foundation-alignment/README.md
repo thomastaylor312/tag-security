@@ -24,4 +24,4 @@
 
 - **Lead:** Eddie Knight
 - **STAG Rep:** Michael Lieberman
-- **Slack Channel:** [Link](https://cloud-native.slack.com/archives/C06B26A12AF)
+- **Slack Channel:** [Link](https://app.slack.com/client/T08PSQ7BQ/C07EX4ZU15Y)
